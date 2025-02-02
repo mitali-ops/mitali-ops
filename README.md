@@ -35,10 +35,10 @@
 🌟 **[Fraud Detection System](https://github.com/mitali-ops/render-fraud)**  
 🔹 A machine learning-based fraud detection system using Python and scikit-learn.  
 
-🌟 **[Face Recognition System](https://github.com/mitali-ops/face-recognition)**  
+🌟 **[Face Recognition System](https://github.com/mitali-ops/face-recognitio)**  
 🔹 A real-time face recognition system using OpenCV and KNN for classification.  
 
-🌟 **[Dynamic Job Scheduling System](https://github.com/mitali-ops/experiment-and-learn/job_scheduler)**  
+🌟 **[Dynamic Job Scheduling System](https://github.com/mitali-ops/experiment-and-learn/tree/main/job_scheduler)**  
 🔹 A real-world implementation of job scheduling algorithms for optimal resource allocation.  
 
 ---
@@ -54,8 +54,9 @@
 ---
 
 ## 📬 How to Reach Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitali06)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4081?style=for-the-badge&logo=web)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitali06)<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
+<br>
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitalikamble06@gmail.com)  
 
 ## 📚 Currently Learning  
