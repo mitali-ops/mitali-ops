@@ -38,7 +38,7 @@
 🌟 **[Face Recognition System](https://github.com/mitali-ops/face-recognition)**  
 🔹 A real-time face recognition system using OpenCV and KNN for classification.  
 
-🌟 **[Dynamic Job Scheduling System](https://github.com/mitali-ops/job-scheduler)**  
+🌟 **[Dynamic Job Scheduling System](https://github.com/mitali-ops/experiment-and-learn/job_scheduler)**  
 🔹 A real-world implementation of job scheduling algorithms for optimal resource allocation.  
 
 ---
