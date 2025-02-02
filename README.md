@@ -54,7 +54,7 @@
 ---
 
 ## 📬 How to Reach Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mitali06)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitali06)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4081?style=for-the-badge&logo=web)](https://yourportfolio.com)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitalikamble06@gmail.com)  
 
