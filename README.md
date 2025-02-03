@@ -35,7 +35,7 @@
 🌟 **[Fraud Detection System](https://github.com/mitali-ops/render-fraud)**  
 🔹 A machine learning-based fraud detection system using Python and scikit-learn.  
 
-🌟 **[Face Recognition System](https://github.com/mitali-ops/face-recognitio)**  
+🌟 **[Face Recognition System](https://github.com/mitali-ops/face-recognition)**  
 🔹 A real-time face recognition system using OpenCV and KNN for classification.  
 
 🌟 **[Dynamic Job Scheduling System](https://github.com/mitali-ops/experiment-and-learn/tree/main/job_scheduler)**  
