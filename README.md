@@ -32,8 +32,8 @@
 ---
 
 ## 🔥 Featured Projects  
-🌟 **[Fraud Detection System](https://github.com/mitali-ops/render-fraud)**  
-🔹 A machine learning-based fraud detection system using Python and scikit-learn.  
+🌟 **[ArXiv Research Assistant](https://github.com/mitali-ops/arxiv-rag-assistant)**  
+🔹  Production RAG system processing 2.8M research papers with sub-second search performance using SQLite FTS5 and Streamlit interface.  
 
 🌟 **[Face Recognition System](https://github.com/mitali-ops/face-recognition)**  
 🔹 A real-time face recognition system using OpenCV and KNN for classification.  
