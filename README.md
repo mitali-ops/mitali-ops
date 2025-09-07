@@ -33,7 +33,10 @@
 
 ## 🔥 Featured Projects  
 🌟 **[ArXiv Research Assistant](https://github.com/mitali-ops/arxiv-rag-assistant)**  
-🔹  Production RAG system processing 2.8M research papers with sub-second search performance using SQLite FTS5 and Streamlit interface.  
+🔹  Production RAG system processing 2.8M research papers with sub-second search performance using SQLite FTS5 and Streamlit interface.
+
+🌟 **[Drowsiness Detection System](https://github.com/cvframeiq/Drowsiness_Detection_System)**  
+🔹  Real-time fatigue monitoring system using MobileNetV2 CNN and MediaPipe facial landmarks to detect eye closure, yawning, and head nodding with Flask web interface.
 
 🌟 **[Face Recognition System](https://github.com/mitali-ops/face-recognition)**  
 🔹 A real-time face recognition system using OpenCV and KNN for classification.  
