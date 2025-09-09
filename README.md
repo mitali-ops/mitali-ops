@@ -49,7 +49,7 @@
 
 ## 🎯 What I’m Working On  
 - 🔍 Learning **Deep Learning** and **Neural Networks**  
-- 🏗 Building **NLP-based AI projects**  
+- 🏗 Building **AI projects**  
 - 📖 Writing technical blogs about ML and AI  
 
 ---
